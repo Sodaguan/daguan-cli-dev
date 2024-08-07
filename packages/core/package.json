@@ -1,0 +1,22 @@
+{
+  "name": "@daguan-cli-dev/core",
+  "version": "1.0.0",
+  "description": "daguan-cli-dev core",
+  "author": "Sodaguan <578673813@qq.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "node ./__tests__/core.test.js"
+  },
+  "dependencies": {
+    "@daguan-cli-dev": "^1.0.0"
+  }
+}
