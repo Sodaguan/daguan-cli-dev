@@ -1,6 +1,6 @@
 {
   "name": "@daguan-cli-dev/utils",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "daguan-cli-dev utils",
   "author": "Sodaguan <578673813@qq.com>",
   "homepage": "",
@@ -15,5 +15,6 @@
   ],
   "scripts": {
     "test": "node ./__tests__/utils.test.js"
-  }
+  },
+  "gitHead": "265183818e514cc96699e7edded5b65a176fa4aa"
 }

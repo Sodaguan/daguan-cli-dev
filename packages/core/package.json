@@ -1,6 +1,6 @@
 {
   "name": "@daguan-cli-dev/core",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "daguan-cli-dev core",
   "author": "Sodaguan <578673813@qq.com>",
   "homepage": "",
@@ -18,5 +18,6 @@
   },
   "dependencies": {
     "@daguan-cli-dev": "^1.0.0"
-  }
+  },
+  "gitHead": "265183818e514cc96699e7edded5b65a176fa4aa"
 }
