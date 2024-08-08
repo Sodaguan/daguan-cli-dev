@@ -13,6 +13,7 @@
     "lerna": "^8.1.8"
   },
   "workspaces": [
-    "packages"
+    "core/*",
+    "utils/*"
   ]
 }
